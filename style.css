@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+    padding: 10%;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+
+}
+.content{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.photo{
+    margin-bottom: 10px;
+}
